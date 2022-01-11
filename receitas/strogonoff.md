@@ -9,9 +9,13 @@
      - Champignon
      - 3 colheres de catchup
      
-     # Modo de preparo
+     # Modo de preparo:
      
-     Joga tudo na panela!
+     Joga tudo na panela e mistura!
+     
+      
+     # Tudo pronto!	
+     Agora é só degustar com a familia e os amigos!
      
      
      
